@@ -1,4 +1,4 @@
-
+![WhatsApp Image 2024-05-05 at 17 36 05_5f5096cf](https://github.com/dxdyd/Travel-Food-Beverages/assets/138697594/b4cbbdbd-64cd-48bd-b558-9b8464a7092a)
 
 # PowerBI-Food And Beverages: Adverse Event Report Analysis
 Overview
@@ -42,4 +42,9 @@ Conclusion
 ----------
 
 This dashboard transforms the extensive CAERS dataset into actionable insights, offering an invaluable tool for regulatory bodies, manufacturers, and public health professionals. The visualizations and analyses contribute to enhancing product safety, monitoring industry performance, and ultimately protecting consumer health.
+
+
+
+
+![WhatsApp Image 2024-05-05 at 17 36 05_a4cccff5](https://github.com/dxdyd/Travel-Food-Beverages/assets/138697594/959612c7-37ca-4236-b0c5-2926c693609c)
 
