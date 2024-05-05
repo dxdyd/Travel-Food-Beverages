@@ -1,6 +1,4 @@
-<p align="center" >
-  <img src="https://github.com/Tahascommit/PowerBI-Food-And-Beverages--Adverse-Event-Report-Analysis/blob/75567130171520f75d5389a3274a67da1ee8fefb/assets/Cover_Image.png" width="703" height="340">
-</p >
+
 
 # PowerBI-Food And Beverages: Adverse Event Report Analysis
 Overview
